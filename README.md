@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/alex-dev2015/spread-flex-turismo/blob/main/images/0-main.png" alt="Flex Turismo" />
+  <img src="https://github.com/alex-dev2015/spread-flex-turismo/blob/main/images/logo.fw.png" alt="Flex Turismo" />
 
   &#xa0;
 
