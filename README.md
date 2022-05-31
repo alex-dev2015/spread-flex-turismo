@@ -7,7 +7,6 @@
 </div>
 
 <h1 align="center">Flex Turismo</h1>
-![flex](https://github.com/alex-dev2015/spread-flex-turismo/blob/main/images/Flex-Turismo.gif)
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/alex-dev2015/spread-flex-turismo?color=56BEB8">
@@ -39,6 +38,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#uso-exemplo">Exemplo</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/alex-dev2015" target="_blank">Autor</a>
 </p>
@@ -84,6 +84,10 @@ $ Go To LiveServer
 
 # O app vai inicializar em <http://127.0.0.1:5500>
 ```
+
+## :uso: Exemplo ##
+
+![flex](https://github.com/alex-dev2015/spread-flex-turismo/blob/main/images/Flex-Turismo.gif)
 
 ## :memo: Licença ##
 
