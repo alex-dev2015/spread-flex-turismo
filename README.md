@@ -9,13 +9,13 @@
 <h1 align="center">Flex Turismo</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/alex-dev2015/flex-turismo?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/alex-dev2015/spread-flex-turismo?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/alex-dev2015/flex-turismo?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/alex-dev2015/spread-flex-turismo?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/alex-dev2015/flex-turismo?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/alex-dev2015/spread-flex-turismo?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/alex-dev2015/flex-turismo?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/alex-dev2015/spread-flex-turismo?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/alex-dev2015/flex-turismo?color=56BEB8" /> -->
 
@@ -46,44 +46,42 @@
 
 ## :dart: Sobre ##
 
-Sobre o seu projeto
+Projeto utilizando os conceitos de flexbox.
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+:heavy_check_mark: display: flex;\
+:heavy_check_mark: flex-direction: row, column, row-reverse;\
+:heavy_check_mark: align-items: center;\
+:heavy_check_mark: justify-content: center, space-between;\
+:heavy_check_mark: box-shadow: para criar sombras;
 
 ## :rocket: Tecnologias ##
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [VSCode](https://code.visualstudio.com/)
+- [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## :white_check_mark: Pré requisitos ##
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) instalados em sua maquina.
 
 ## :checkered_flag: Começando ##
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/alex-dev2015/flex-turismo
+$ git clone https://github.com/alex-dev2015/spread-flex-turismo
 
 # Entre na pasta
-$ cd flex-turismo
-
-# Instale as dependências
-$ yarn
+$ cd spread-flex-turismo
 
 # Para iniciar o projeto
-$ yarn start
+$ Go To LiveServer
 
-# O app vai inicializar em <http://localhost:3000>
+# O app vai inicializar em <http://127.0.0.1:5500>
 ```
 
 ## :memo: Licença ##

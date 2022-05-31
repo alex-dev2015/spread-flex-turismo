@@ -199,9 +199,9 @@ header .menu{
     padding: 10px;
     max-width: 240px;
 
-    -webkit-box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
-  -moz-box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
-  box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
+   -webkit-box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
+   -moz-box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
+   box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
     
 }
 
