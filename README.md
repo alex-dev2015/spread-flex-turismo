@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Flex Turismo" />
+  <img src="https://github.com/alex-dev2015/spread-flex-turismo/blob/main/images/0-main.png" alt="Flex Turismo" />
 
   &#xa0;
 
@@ -7,6 +7,7 @@
 </div>
 
 <h1 align="center">Flex Turismo</h1>
+![flex](https://github.com/alex-dev2015/spread-flex-turismo/blob/main/images/Flex-Turismo.gif)
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/alex-dev2015/spread-flex-turismo?color=56BEB8">
